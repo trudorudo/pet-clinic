@@ -1,0 +1,14 @@
+guru/springboot/petclinic/services/PetService.class
+guru/springboot/petclinic/model/PetType.class
+guru/springboot/petclinic/model/Pet.class
+guru/springboot/petclinic/services/map/OwnerServiceMap.class
+guru/springboot/petclinic/model/BaseEntity.class
+guru/springboot/petclinic/services/CrudService.class
+guru/springboot/petclinic/model/Owner.class
+guru/springboot/petclinic/services/VetService.class
+guru/springboot/petclinic/model/Vet.class
+guru/springboot/petclinic/services/map/PetServiceMap.class
+guru/springboot/petclinic/model/Person.class
+guru/springboot/petclinic/services/map/AbstractMapService.class
+guru/springboot/petclinic/services/map/VetServiceMap.class
+guru/springboot/petclinic/services/OwnerService.class

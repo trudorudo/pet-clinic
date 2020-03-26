@@ -1,0 +1,14 @@
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/model/Pet.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/map/PetServiceMap.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/model/PetType.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/VetService.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/model/Person.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/map/OwnerServiceMap.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/PetService.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/model/Owner.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/map/AbstractMapService.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/map/VetServiceMap.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/OwnerService.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/model/Vet.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/model/BaseEntity.java
+/Users/kristinatrudorudo/Desktop/MyProjects/pet-clinic/pet-clinic-data/src/main/java/guru/springboot/petclinic/services/CrudService.java
