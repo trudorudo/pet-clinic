@@ -1,8 +1,11 @@
 package guru.springboot.petclinic.model;
 
+import javax.persistence.Table;
 import java.util.HashSet;
 import java.util.Set;
 
+
+@Table(name="owners")
 public class Owner extends Person{
     private String address;
     private String city;
